@@ -30,3 +30,24 @@ p{
     font-size: 20px;
     line-height: 1.6;
 }
+.links{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.links a{
+    display: inline-block;
+    background-color: #ffd700;
+    color: #1e3c72;
+    text-decoration: none;
+    padding: 12px 20px;
+    margin: 10px;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.links a:hover{
+    background-color: #ffffff;
+}
