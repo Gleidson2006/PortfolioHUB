@@ -8,7 +8,7 @@ O objetivo do projeto é praticar organização de repositórios, versionamento 
 
 ---
 
-## Tecnologias Utilizadas
+## Técnologias Utilizadas
 
 - HTML5
 - CSS3
