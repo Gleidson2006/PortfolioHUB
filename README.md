@@ -14,7 +14,7 @@ O objetivo do projeto é praticar organização de repositórios, versionamento 
 - CSS3
 - Git
 - GitHub
-- GitHub Pages
+- 
 
 ---
 
